@@ -1,0 +1,6 @@
+com\Kafka\Project\controller\KafkaController.class
+com\Kafka\Project\Service\KafkaConsumer.class
+com\Kafka\Project\Service\KafkaProducer.class
+com\Kafka\Project\ApacheKafkaProjectApplication.class
+com\Kafka\Project\model\UserEvent.class
+com\Kafka\Project\config\KafkaProducerConfig.class
